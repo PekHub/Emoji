@@ -1,7 +1,9 @@
 # สุ่มอิโมจิ
 
 วิธีใช้
-git clone 
+
+git clone https://github.com/PekHub/Random-Emoji.git
+
 pip install colorama
 
 python main.py
