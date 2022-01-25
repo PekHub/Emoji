@@ -1,6 +1,7 @@
 import os
 import requests
 import colorama
+#อย่าแก้เครดิตBy:PekHub
 #Discord:https://discord.gg/RC4KEDakbd
 
 colorama.init(convert=True)
