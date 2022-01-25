@@ -1,5 +1,11 @@
 # สุ่มอิโมจิ
 
+วิธีใช้
+git clone 
+pip install colorama
+
+python main.py
+
 # Followers Me
 Discord : https://discord.gg/RC4KEDakbd
 
